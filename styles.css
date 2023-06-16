@@ -120,11 +120,11 @@ body {
     margin-top: 25px;
 }
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:600px) {
     .container1 .input-field{
         border: none;
         display: block;
-        margin: auto;
+        margin-left:8vw
 
     }
     .container1 .input-field .btn{
