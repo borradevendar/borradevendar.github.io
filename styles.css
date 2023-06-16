@@ -121,28 +121,28 @@ body {
 }
 
 @media screen and (max-width:600px) {
-    .container1 .input-field{
-        border: none;
-        display: block;
-        margin-left:7vw
-
-    }
     .container1 .input-field .btn{
-        width: 150px;
+        width: 70vw;
         font-size: 15px;
         display: block;
-        margin-top: 8px;
         margin: auto;
+        margin-top: 1rem;
+        margin-left: 1vw;
 
     }
     .form
     {
         border: solid;
         border-radius: 20px;
-        width: 150px;
+        width: 70vw;
         height: 40px;
         display: block;
         margin: auto;
+    }
+    .container1 .input-field{
+        width: 70vw;
+        border: none;
+        display: contents;
     }
     .container1 .terms{
         margin-top: 5rem;
